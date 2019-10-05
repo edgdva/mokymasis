@@ -1,0 +1,2 @@
+# mokymasis
+Pirmas bandymas ismokti 
